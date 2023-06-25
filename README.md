@@ -10,3 +10,5 @@
 
 APLF folder contains the Python file that contains all the scripts required to execute the method:\
 model.py: This file contains a Tensorflow implementation of the Sparse Online Gaussian Process, which is added to a deep Soft Spiking Neuron Networks in ODKL. To implement the ODKL, just apply it directly to the project [OSTL](https://github.com/IBM/ostl).
+
+## Citation:
