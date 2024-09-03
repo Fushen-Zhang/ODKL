@@ -17,7 +17,7 @@ in America from 2014 to 2016.\
 
 ## 🎯 Implementation:
 
-This file contains a Tensorflow implementation of the ODKL. To apply this model, just apply it directly to the project [OSTL](https://github.com/IBM/ostl).
+This repositories contains a Tensorflow implementation of the ODKL. To apply this model, just apply it directly to the project [OSTL](https://github.com/IBM/ostl).
 
 ## 📚 Citation
 
