@@ -32,4 +32,4 @@ If you use ODKL in your research, please consider citing us.
 ```
 
 ## 📚 Acknowledgement:
-This repositories is based on the work rehttps://github.com/IBM/ostl.
+This repositories is based on the work https://github.com/IBM/ostl.
