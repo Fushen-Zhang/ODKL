@@ -16,8 +16,8 @@ of 7 homes are collected by the UMass Smart Home project in America from 2014 to
 
 ## 🎯 Implementation:
 
-- Install the packages in requirement.txt to run the code.
-- The demo.py shows how to apply the proposed model for load forecasting.
+- Install the packages in requirement.txt
+- The demo.py shows how to apply the proposed model for load forecasting
   - download file '2012-2013 Solar home electricity data v2.csv' from ausgrid resident dataset
   - run demo.py
 
