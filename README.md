@@ -21,6 +21,8 @@ of 7 homes are collected by the UMass Smart Home project in America from 2014 to
   - download file '2012-2013 Solar home electricity data v2.csv' from ausgrid resident dataset
   - run demo.py
 
+![grab-landing-page](predictions.gif)
+
 ## 🤗 Citation
 
 If you use ODKL in your research, please consider citing us.
