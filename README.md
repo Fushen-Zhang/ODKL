@@ -20,8 +20,8 @@ of 7 homes are collected by the UMass Smart Home project in America from 2014 to
 - The demo.py shows how to apply the proposed model for load forecasting
   - download file '2012-2013 Solar home electricity data v2.csv' from ausgrid resident dataset
   - run demo.py
-
-<div align=center><img src="https://github.com/Fushen-Zhang/ODKL/blob/main/predictions.gif" width="400"  /></div>
+  
+<img src="https://github.com/Fushen-Zhang/ODKL/blob/main/predictions.gif" width="400" />
 
 ## 🤗 Citation
 
