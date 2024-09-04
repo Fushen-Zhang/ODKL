@@ -15,10 +15,10 @@ of 7 homes are collected by the UMass Smart Home project in America from 2014 to
 *[SGSC Customer Trial](https://data.gov.au/data/dataset/smart-grid-smart-city-customer-trial-data): This dataset stems from the Smart Grid Smart City (SGSC) project in Australia since 2010.*
 
 ## 🎯 Implementation:
+- Install the packages in requirement.txt to run the code.
+- The demo.py shows how to apply the proposed model for load forecasting.
 
-This repositories contains a Tensorflow implementation of the ODKL. To apply this model, just apply it directly to the project [OSTL](https://github.com/IBM/ostl).
-
-## 📚 Citation
+## 🤗 Citation
 
 If you use ODKL in your research, please consider citing us.
 ```bibtex
@@ -30,3 +30,6 @@ If you use ODKL in your research, please consider citing us.
   publisher={IEEE}
 }
 ```
+
+## 📚 Acknowledgement:
+This repositories is based on the work rehttps://github.com/IBM/ostl.
