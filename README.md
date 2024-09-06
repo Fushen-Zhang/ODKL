@@ -6,14 +6,6 @@
 A deep kernel is proposed by integrating the deep soft Spiking Neural Networks, which is then applied to
 perform Gaussian Process (GP) regression. The constructed regressor investigates the temporal dynamics within the time-series and retains the probabilistic advantages for uncertainty estimates.
 
-## 🌟 Dataset:
-
- 3 publicly available residential load datasets are applied:
-- *[Ausgrid Resident](https://github.com/pierre-haessig/ausgrid-solar-data?tab=readme-ov-file#:~:text=Personal%20repository%20on%20the%20analysis%20of%20the%20Solar%20home%20electricity)*: Loads of 300 households in the Australian distribution network are released for public utilization.
-- *[UMass Smart](https://traces.cs.umass.edu/index.php/Smart/Smart)*: Multiple smart meters’ readings
-of 7 homes are collected by the UMass Smart Home project in America from 2014 to 2016.
-- *[SGSC Customer Trial](https://data.gov.au/data/dataset/smart-grid-smart-city-customer-trial-data)*: This dataset stems from the Smart Grid Smart City (SGSC) project in Australia since 2010.
-
 ## 🎯 Implementation:
 
 - Install the packages in requirement.txt
@@ -22,6 +14,14 @@ of 7 homes are collected by the UMass Smart Home project in America from 2014 to
   - run demo.py
   
 <div align=center><img src="https://github.com/Fushen-Zhang/ODKL/blob/main/predictions.gif" width="400"  /></div>
+
+## 🌟 Dataset:
+
+ 3 publicly available residential load datasets are applied:
+- *[Ausgrid Resident](https://github.com/pierre-haessig/ausgrid-solar-data?tab=readme-ov-file#:~:text=Personal%20repository%20on%20the%20analysis%20of%20the%20Solar%20home%20electricity)*: Loads of 300 households in the Australian distribution network are released for public utilization.
+- *[UMass Smart](https://traces.cs.umass.edu/index.php/Smart/Smart)*: Multiple smart meters’ readings
+of 7 homes are collected by the UMass Smart Home project in America from 2014 to 2016.
+- *[SGSC Customer Trial](https://data.gov.au/data/dataset/smart-grid-smart-city-customer-trial-data)*: This dataset stems from the Smart Grid Smart City (SGSC) project in Australia since 2010.
 
 ## 🤗 Citation
 
