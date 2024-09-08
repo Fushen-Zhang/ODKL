@@ -35,6 +35,3 @@ If you use ODKL in your research, please consider citing us.
   publisher={IEEE}
 }
 ```
-
-## 📚 Acknowledgement:
-This repositories is based on the work https://github.com/IBM/ostl.
