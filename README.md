@@ -5,8 +5,6 @@
 
 This resp presents a probabilistic and online forecasting model. In detail, a deep kernel is proposed by integrating the deep soft Spiking Neural Networks into the Gaussian kernel, which is then applied to perform sparse Gaussian Process regression. The constructed regressor investigates the temporal dynamics within the time-series and retains the probabilistic advantages for uncertainty estimates. 
 
-![image](https://raw.githubusercontent.com/Fushen-Zhang/ODKL/main/predictions.gif)
-
 ## Implementation:
 
 - Install the packages in requirement.txt
