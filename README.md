@@ -1,7 +1,7 @@
 <p align="center">
    <h2 align="center">ODKL: An Online-Offline Deep Kernel Learning Method </h2> 
 
-Official Implementation of work published in *IEEE Transactions on Power Systems* <a href="https://ieeexplore.ieee.org/document/10197224">Paper</a> 
+Official Implementation of the <a href="https://ieeexplore.ieee.org/document/10197224">paper</a>  published in *IEEE Transactions on Power Systems Volume: 39, Issue: 2, March 2024* 
 
 ## 📖 Implementation:
 
