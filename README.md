@@ -1,11 +1,11 @@
 <p align="center">
    <h2 align="center">Residential Load Forecasting: An Online-Offline Deep Kernel Learning Method</h2>
  <p align="center">
- <h3 align="center"> IEEE Transactions on Power Systems 📖 <a href="https://ieeexplore.ieee.org/document/10197224">Paper</a>&nbsp&nbsp  </h3>    
+ <h3 align="center"> IEEE Transactions on Power Systems 📖<a href="https://ieeexplore.ieee.org/document/10197224">Paper</a>&nbsp&nbsp  </h3>    
 
 This resp presents a probabilistic and online forecasting model. In detail, a deep kernel is proposed by integrating the deep soft Spiking Neural Networks into the Gaussian kernel, which is then applied to perform sparse Gaussian Process regression. The constructed regressor investigates the temporal dynamics within the time-series and retains the probabilistic advantages for uncertainty estimates. 
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fushen-Zhang/ODKL/main/predictions.gif?raw=true"width="40%"></div>
+<div align="center"><img src="https://github.com/Fushen-Zhang/ODKL/blob/main/predictions.gif?raw=true"width="40%"></div>
 
 ## Implementation:
 
