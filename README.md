@@ -1,20 +1,21 @@
 <p align="center">
    <h2 align="center">Residential Load Forecasting: An Online-Offline Deep Kernel Learning Method</h2>
  <p align="center">
- <h3 align="center">IEEE Transactions on Power Systems ( Volume: 39, Issue: 2, March 2024) </h3>
+ <h3 align="center"> IEEE Transactions on Power Systems </h3>
 
-A deep kernel is proposed by integrating the deep soft Spiking Neural Networks, which is then applied to
-perform Gaussian Process (GP) regression. The constructed regressor investigates the temporal dynamics within the time-series and retains the probabilistic advantages for uncertainty estimates.
+[**Implementation**](##Implementation) | [**Dataset**](##Dataset) | [**Paper**](https://ieeexplore.ieee.org/document/10197224) | [**Citing**](##Citation) 
+ 
+This resp presents a probabilistic and online forecasting model. In detail, a deep kernel is proposed by integrating the deep soft Spiking Neural Networks into the Gaussian kernel, which is then applied to perform sparse Gaussian Process regression. The constructed regressor investigates the temporal dynamics within the time-series and retains the probabilistic advantages for uncertainty estimates.
 
-## 🎯 Implementation:
+<div align=center><img src="https://github.com/Fushen-Zhang/ODKL/blob/main/predictions.gif" width="400"  /></div>
+
+## Implementation:
 
 - Install the packages in requirement.txt
-- The demo.py shows how to apply the proposed model for load forecasting
+- The demo.py shows how to apply the proposed model for load forecasting, to run this demo:
   - download file '2012-2013 Solar home electricity data v2.csv' from ausgrid resident dataset
   - run demo.py
   
-<div align=center><img src="https://github.com/Fushen-Zhang/ODKL/blob/main/predictions.gif" width="400"  /></div>
-
 ## 🌟 Dataset:
 
  3 publicly available residential load datasets are applied:
